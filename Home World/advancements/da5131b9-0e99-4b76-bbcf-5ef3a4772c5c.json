@@ -1,0 +1,75 @@
+{
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2021-06-12 20:39:38 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2021-06-12 20:39:38 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-06-12 20:39:38 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2021-06-12 20:39:38 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2021-06-12 20:39:38 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2021-06-12 20:39:38 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2021-06-12 20:39:38 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2021-06-12 20:39:38 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2021-06-12 20:39:38 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2021-06-12 20:39:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_hills": "2021-06-12 20:36:18 -0400"
+    },
+    "done": false
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2021-06-12 20:39:38 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2724
+}
